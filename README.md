@@ -13,3 +13,5 @@ Prueba técnica para ser becaria arquitecta de software en Nohbek
 - Lambda Functions → Procesa la lógica del negocio.
 - DynamoDB → Base de datos.
 - Flechas de flujo de datos para representar la interacción entre los componentes.
+
+https://github.com/nohbek/tech-internship-test/tree/main/arquitecta-software/docs
